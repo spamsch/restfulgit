@@ -7,3 +7,8 @@ cover
 MANIFEST
 ENV/
 config.py
+.Python
+bin/
+include/
+lib/
+pip-selfcheck.json
